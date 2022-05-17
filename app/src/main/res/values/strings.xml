@@ -1,0 +1,12 @@
+<resources>
+    <string name="app_name">Lab27</string>
+
+    <string name="btn1">Add</string>
+    <string name="btn2">OK</string>
+    <string name="btn3">Cancel</string>
+    <string name="h">Введите текст</string>
+    <string name="hint">Введите заголовок</string>
+
+    <string name="add">Запись добавлена</string>
+    <string name="set">Запись изменилась</string>
+</resources>
